@@ -1,0 +1,16 @@
+[
+{
+  "modid": "forgetown",
+  "name": "Forge Town",
+  "description": "Forge Version of Towny",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Silentneeb"],
+  "credits": "Elgarl for currently devloping the Bukkit version of Towny.  Silentneeb at attempting to port it.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
